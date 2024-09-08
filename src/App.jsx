@@ -3,7 +3,7 @@ function App() {
   return (
   
       <main>
-        <Titulo></Titulo>
+        <Titulo nombre = 'MY FRIEND'></Titulo>
       </main>
    
   );
